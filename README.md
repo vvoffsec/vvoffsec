@@ -1,6 +1,6 @@
-# Hi 👋, I'm Vishal Venkateswaran
+# Hi 👋, I'm Vishal
 
-### A passionate Python developer
+### A Firmware Engineer @ IBM
 
 - 🔭 I'm currently working on **PrivacyGuard, a zero-trust policy-as-code control plane enforcing privacy, DLP, and capability gating for AI agent ecosystems.**
 
